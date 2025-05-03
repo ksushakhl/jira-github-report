@@ -17,7 +17,7 @@ Your github username
 >git_token = "git_token"
 
 Your personal github token. Instructions how to create: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
-After you create a token, click "Configure SSO" and then authorize it for FlyrInc
+After you create a token, click "Configure SSO" and then authorize it
 
 >start_date
 
